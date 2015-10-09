@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="Mirai:war">
-    <output-path>$PROJECT_DIR$/../Mirai/target</output-path>
-    <root id="archive" name="Mirai-0.1.war">
-      <element id="artifact" artifact-name="Mirai:war exploded" />
-    </root>
-  </artifact>
-</component>
