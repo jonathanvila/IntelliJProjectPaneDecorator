@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: toplink.essentials:toplink-essentials:2.1-60f">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/toplink/essentials/toplink-essentials/2.1-60f/toplink-essentials-2.1-60f.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/toplink/essentials/toplink-essentials/2.1-60f/toplink-essentials-2.1-60f-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/toplink/essentials/toplink-essentials/2.1-60f/toplink-essentials-2.1-60f-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
