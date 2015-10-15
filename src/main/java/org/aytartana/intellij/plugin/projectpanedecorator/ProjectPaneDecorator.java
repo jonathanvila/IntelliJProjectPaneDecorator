@@ -1,4 +1,4 @@
-package org.aytartana.intellij.plugin.projectpanedecorator;
+package main.java.org.aytartana.intellij.plugin.projectpanedecorator;
 
 import com.intellij.ide.projectView.PresentationData;
 import com.intellij.ide.projectView.ProjectViewNode;
