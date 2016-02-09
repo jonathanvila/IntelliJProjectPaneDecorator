@@ -62,7 +62,7 @@ public class ProjectPaneDecorator implements ProjectViewNodeDecorator {
 
   private String getGitCommitsToPush(Project project, VirtualFile fichero) {
     String text = "";
-    text = "esto es una prueba : 100 commits to push";
+    text = "esto es una prueba : 99 commits to push";
     return text;
   }
 
